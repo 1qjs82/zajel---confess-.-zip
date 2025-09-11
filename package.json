@@ -1,0 +1,13 @@
+{
+  "name": "zajel-confess",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "better-sqlite3": "^8.0.1",
+    "dotenv": "^16.0.3"
+  }
+}
